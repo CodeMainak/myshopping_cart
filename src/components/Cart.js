@@ -59,7 +59,7 @@ const Cart=(props)=> {
                             <h4>Shipping:{props.item.total>=90? <span className="free">free </span>:`+₹{props.item.shipping}` }
                             </h4>
                             <h4>price:<span>₹{props.item.total}</span></h4>
-                            <h4>Total price <span>₹{props.item.total>=90? props.item.total:props.item.total+ props.item.shipping}</span></h4>
+                            <h4>Total price <span>₹{props.item.total>=90? props.item.total: props.item.total+ props.item.shipping}</span></h4>
 
                         </div>
                     </div>
