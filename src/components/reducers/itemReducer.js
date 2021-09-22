@@ -7,7 +7,7 @@ const initialState={
             _id:1,
             img:'https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1611072552-bean-1611072543.jpg?crop=1xw:1xh;center,top&resize=480:*',
             title:'Denim Shirt Men 2018',
-            price:'1,295',
+            price:'1295',
             details:'Denim Shirt Men 2018 Long Sleeve Men Casual Cotton Jeans Shirt Slim Suede Matching Mens Solid Pocket Shirts Tops Chemise Homme',
             count:1,
             isInCart:false
